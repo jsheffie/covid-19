@@ -20,6 +20,9 @@ https://youtu.be/fgBla7RepXU
 
 Looking it New York data between
 3/20, 21, 22
-
 looks like the multplication factor for 3/20 -> 21 is 1.41
 looks like the multiplication factor fro 3/21 -> 22 is 1.349 ( curve is flattening?? )
+
+Same Data for texas
+3/20 -> 21 == 1.479
+3/21 -> 22 == 1.08
